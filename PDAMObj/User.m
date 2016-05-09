@@ -10,10 +10,6 @@
 
 @implementation User
 
-
-@dynamic judul;
-@dynamic input1;
-@dynamic input2;
-
+// Insert code here to add functionality to your managed object subclass
 
 @end
